@@ -1,0 +1,14 @@
+{
+  "name": "ep1inception",
+  "version": "1.0.0",
+  "description": "lets do React",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "pranav",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.0"
+  }
+}
